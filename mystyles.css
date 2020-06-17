@@ -7,7 +7,7 @@
 }
 
 .caption-area{
-    margin-top:100px;
+    margin-top:60px;
 
 }
 .fa{
@@ -25,7 +25,10 @@
 .slide-shadow{
     box-shadow: 10px 10px 10px grey;
 }
-
+.img-width{
+    width:400px;
+    height:350px
+}
 marquee > img{
     width:100px;
     margin-left:120px;

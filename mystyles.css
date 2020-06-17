@@ -1,0 +1,39 @@
+.nav-bg{
+    background: coral;
+}
+
+.logo-img{
+    width:80px;
+}
+
+.caption-area{
+    margin-top:100px;
+
+}
+
+.title{
+    color:coral;
+}
+
+.btn{
+    color:#fff !important;
+}
+
+.slide-shadow{
+    box-shadow: 10px 10px 10px grey;
+}
+
+marquee > img{
+    width:100px;
+    margin-left:120px;
+}
+
+footer{
+    height:100px;
+    width: 100%;
+    background: coral;
+    text-align: center;
+    color:#fff;
+    padding: 50px;
+}
+
